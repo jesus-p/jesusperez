@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus Perez</h1>
 <h3 align="center">Software Engineering Grad Student at UTSA</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-p&show_icons=true&locale=en&layout=compact" alt="jesus-p" /></p>
+
 
 - 🔭 I’m currently working on **creating a personal cloud server**
 
@@ -13,7 +13,7 @@
 - 📄 Email me for my resume or CV
 
 - ⚡ Fun fact **I'm a big NBA fan**
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus-p&show_icons=true&locale=en&layout=compact" alt="jesus-p" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jesus-a-perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-a-perez" height="30" width="40" /></a>
