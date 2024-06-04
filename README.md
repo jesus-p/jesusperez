@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Perez</h1>
-<h3 align="center">Software Engineering Grad Student at UTSA</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 - 🔭 I’m currently working on **creating a personal cloud server**
